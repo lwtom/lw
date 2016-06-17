@@ -50,7 +50,7 @@
     [self.view addSubview:self.tiebaimage];
     [self.view addSubview:self.moreimage];
     [self.view addSubview:self.namelable];
-    
+    NSLog(@"ghhh");
     [self addLayout];
     
     
